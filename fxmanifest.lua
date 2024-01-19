@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'G&N_s Studio'
-description 'Grapeseed Mapdata - Sheriff Only'
+description 'Grapeseed Mapdata - Biker Lost Only'
 version '4.0.0'
 
 dependencies {
