@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'G&N_s Studio'
-description 'Grapeseed Mapdata - Sheriff + UpNAtom + Lost_Biker + Bank + Houses'
+description 'Grapeseed Mapdata - UpNAtom2 Only'
 version '4.0.0'
 
 dependencies {
